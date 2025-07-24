@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+cat > README.md << EOF
 # Hi 👋, I'm Vinit Thummar
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinit-thummar&color=blue)  
