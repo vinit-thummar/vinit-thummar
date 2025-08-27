@@ -1,4 +1,3 @@
-cat > README.md << EOF
 # Hi 👋, I'm Vinit Thummar
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinit-thummar&color=blue)  
@@ -32,7 +31,8 @@ cat > README.md << EOF
 
 ### 📈 Ongoing Work
 
-- **MediScan AI** — full-stack AI-powered health assistant with patient diagnosis + doctor suggestion  
+- **MediScan AI** — full-stack AI-powered health assistant with patient diagnosis + doctor suggestion
+- **GrubGo** - full-stack Zomato Clone
 
 ---
 
