@@ -1,13 +1,8 @@
 Hi 👋, I'm Vinit Thummar
 <div align="center">
-
-
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=vinit-thummar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vinit-thummar&layout=compact&langs_count=8&theme=radical"/>
 </div>
-
-📈 GitHub Stats
-Stats: https://github-stats-extended.vercel.app/api?username=vinit-thummar&show_icons=true&theme=radical []
-Top Langs: https://github-stats-extended.vercel.app/api/top-langs/?username=vinit-thummar&layout=compact&theme=radical
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinit-thummar&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
